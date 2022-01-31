@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drogo0716
-- 💞️ I’m looking to collaborate on any Python, Java, C#, and web design projects.
+- 💞️ I’m looking to collaborate on C#, WPF, and Unity projects.
 - 📫 How to reach : I can be reached by email at denvernhce@gmail.com
 
 <!---
